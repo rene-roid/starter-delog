@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-path: /#1-Creating project
+path: /Creating project
 date: 2021-02-07T23:46:12.174Z
-title: Creating the project
+title: 1- Creating the project
 thumbnail: /assets/Screenshot-2022-02-07-234109.png
 ---
 
