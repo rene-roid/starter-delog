@@ -3,7 +3,7 @@ template: BlogPost
 path: /Starting tilemaps
 date: 2021-02-07T23:46:12.174Z
 title: 2- Creating tilemaps
-thumbnail: /assets/Screenshot 2022-02-09 001023.png
+thumbnail: /assets/Screenshot_2022-02-09_001023.png
 ---
 
 # Creating Tilempas
